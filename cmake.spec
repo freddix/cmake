@@ -1,11 +1,11 @@
 Summary:	Cross-platform, open-source make system
 Name:		cmake
-Version:	2.8.12
+Version:	2.8.12.1
 Release:	1
 License:	BSD
 Group:		Development/Building
 Source0:	http://www.cmake.org/files/v2.8/%{name}-%{version}.tar.gz
-# Source0-md5:	105bc6d21cc2e9b6aff901e43c53afea
+# Source0-md5:	9d38cd4e2c94c3cea97d0e2924814acc
 URL:		http://www.cmake.org/HTML/Index.html
 BuildRequires:	libstdc++-devel
 BuildRequires:	ncurses-devel
